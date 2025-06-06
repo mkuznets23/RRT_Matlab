@@ -1,4 +1,4 @@
-# RRT_Matlab
+# RRT
 Implemented RRT path planning algorithm in Matlab for a 3-axis manipulator. It's a sampling approach that iteratively searches for paths while avoiding obstacles (in red). 
 
 Current generated paths are not optimal all since it's the first random sample that works. Thus, further work is needed to be done to optimize located path.
